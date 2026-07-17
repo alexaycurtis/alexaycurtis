@@ -1,11 +1,7 @@
 # Alexa Curtis
 
 ### About Me
-
-Prospective Computational Linguistics and Economics Major
-
-🔭 &nbsp;I'm currently working on **Personal Art Portfolio Site**  
-🌱 &nbsp;I'm currently learning **JavaScript + Swift**
+Incoming Freshman at Dartmouth College
 
 ### Tech Stack
 
