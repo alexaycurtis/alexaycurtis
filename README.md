@@ -15,6 +15,9 @@ Incoming Freshman at Dartmouth College
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
+---
+
+
 ### Connect With Me
 
 <p align="left">
@@ -22,12 +25,18 @@ Incoming Freshman at Dartmouth College
   <a href="https://alexaycurtis.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+---
+
+
 ### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=alexaycurtis&show_icons=true&theme=tokyonight&title_color=4da6ac&icon_color=4da6ac&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=alexaycurtis&layout=compact&theme=tokyonight&title_color=4da6ac&icon_color=4da6ac&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+---
+
 
 ### Contribution Graph
 
