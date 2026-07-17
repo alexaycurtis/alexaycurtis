@@ -3,6 +3,10 @@
 ### About Me
 Incoming Freshman at Dartmouth College
 
+
+---
+
+
 ### Tech Stack
 
 <p align="left">
