@@ -35,7 +35,7 @@ Incoming Freshman at Dartmouth College
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=alexaycurtis&show_icons=true&theme=tokyonight&title_color=4da6ac&icon_color=4da6ac&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=alexaycurtis&show_icons=true&theme=tokyonight&title_color=4da6ac&icon_color=4da6ac&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=alexaycurtis&layout=compact&theme=tokyonight&title_color=4da6ac&icon_color=4da6ac&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
